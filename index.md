@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Spatial Data Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(RStudio) Seattle Parking Demand Prediction](/project_market/Seattle_parking.html)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
