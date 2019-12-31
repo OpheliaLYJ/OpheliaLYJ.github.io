@@ -20,6 +20,10 @@
 <img src="images/customerleakage.jpg"/>
 
 ---
+[(RStudio) Geospatial risk modeling: Chicago narcotics crime](/project_markdown/Chicago_drugcrime.html)
+<img src="images/customerleakage.jpg"/>
+
+---
 [(RStudio) San Francisco Housing Price Prediction](/project_markdown/SF_housingprice.html)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/eis_thumbnail.jpg?raw=true"/>
 
