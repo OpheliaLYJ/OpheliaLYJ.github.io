@@ -4,7 +4,7 @@
 
 ### Spatial Data Analysis 
 
-[(RStudio) Seattle Parking Demand Prediction](/project_market/Seattle_parking.html)
+[(RStudio) Seattle Parking Demand Prediction](/project_markdown/Seattle_parking.html)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
 ---
