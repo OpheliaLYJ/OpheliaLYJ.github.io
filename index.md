@@ -8,14 +8,19 @@
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(RStudio) Time/Space Prediction: Bikeshare Trips in NYC](/project_markdown/NYC_bikeshare.html)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(RStudio & ArcGIS) Megaregion Airport Catchment and Customer Leakage Effect ](/project_markdown/Texas.html)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p6_thumbnail.jpg?raw=true"/>
 
 ---
+[(RStudio) San Francisco Housing Price Prediction](/project_markdown/NYC_bikeshare.html)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/eis_thumbnail.jpg?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
