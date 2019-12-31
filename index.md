@@ -8,6 +8,10 @@
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p8_thumbnail.jpg?raw=true"/>
 
 ---
+[(Python) US Domestic Flight Ticket Price Prediction]( https://cpln-flight-control.github.io/Airline-Ticket-Price-Prediction/Visualizations)
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
+
+---
 [(RStudio) Time/Space Prediction: Bikeshare Trips in NYC](/project_markdown/NYC_bikeshare.html)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
 
@@ -22,7 +26,7 @@
 ---
 
 
-### Category Name 2
+### Transportation Planning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
