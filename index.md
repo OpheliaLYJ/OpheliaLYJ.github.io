@@ -12,11 +12,11 @@
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
 
 ---
-[(RStudio & ArcGIS) Megaregion Airport Catchment and Customer Leakage Effect ](/project_markdown/Texas.html)
+[(RStudio & ArcGIS) Megaregion Airport Catchment and Customer Leakage Effect ](/project_markdown/Megaregion_Texas.html)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p6_thumbnail.jpg?raw=true"/>
 
 ---
-[(RStudio) San Francisco Housing Price Prediction](/project_markdown/NYC_bikeshare.html)
+[(RStudio) San Francisco Housing Price Prediction](/project_markdown/SF_housingprice.html)
 <img src="https://github.com/evanca/evanca.github.io/blob/master/images/eis_thumbnail.jpg?raw=true"/>
 
 ---
