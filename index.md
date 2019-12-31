@@ -21,7 +21,7 @@
 
 ---
 [(RStudio) Geospatial risk modeling: Chicago narcotics crime](/project_markdown/Chicago_drugcrime.html)
-<img src="images/customerleakage.jpg"/>
+<img src="images/chicago.jpg"/>
 
 ---
 [(RStudio) San Francisco Housing Price Prediction](/project_markdown/SF_housingprice.html)
