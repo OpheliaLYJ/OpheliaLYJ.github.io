@@ -5,7 +5,7 @@
 ### Spatial Data Analysis 
 
 [(RStudio) Seattle Parking Demand Prediction](/project_markdown/Seattle_parking.html)
-<img src="images/Seattle.jpg"/>
+<img src="https://github.com/evanca/evanca.github.io/blob/master/images/dand_p7_thumbnail.jpg?raw=true"/>
 
 ---
 [(Python) US Domestic Flight Ticket Price Prediction](https://cpln-flight-control.github.io/Airline-Ticket-Price-Prediction/Visualizations)
