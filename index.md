@@ -8,12 +8,16 @@
 <img src="images/Seattle.jpg"/>
 
 ---
-[(Python) US Domestic Flight Ticket Price Prediction](https://cpln-flight-control.github.io/Airline-Ticket-Price-Prediction/Visualizations)
-<img src="images/airfare.jpg"/>
-
----
 [(RStudio) Time/Space Prediction: Bikeshare Trips in NYC](/project_markdown/NYC_bikeshare.html)
 <img src="images/bikeshare.jpg"/>
+
+---
+[(RStudio) San Francisco Housing Price Prediction](/project_markdown/SF_housingprice.html)
+<img src="images/sfhousing.jpg"/>
+
+---
+[(Python) US Domestic Flight Ticket Price Prediction](https://cpln-flight-control.github.io/Airline-Ticket-Price-Prediction/Visualizations)
+<img src="images/airfare.jpg"/>
 
 ---
 [(RStudio & ArcGIS) Megaregion Airport Catchment and Customer Leakage Effect ](/project_markdown/Megaregion_Texas.html)
@@ -22,10 +26,6 @@
 ---
 [(RStudio) Geospatial risk modeling: Chicago narcotics crime](/project_markdown/Chicago_drugcrime.html)
 <img src="images/chicago.jpg"/>
-
----
-[(RStudio) San Francisco Housing Price Prediction](/project_markdown/SF_housingprice.html)
-<img src="images/sfhousing.jpg"/>
 
 ---
 
