@@ -4,6 +4,10 @@
 
 ### Spatial Data Analysis 
 
+[(RStudio & JavaScript) Scooter Equity & Demand Analysis](https://ophelialyj.github.io/MUSA_practicum_scooter/index.html)
+<img src="images/scooter.jpg"/>
+
+---
 [(RStudio) Seattle Parking Demand Prediction](/project_markdown/Seattle_parking.html)
 <img src="images/Seattle.jpg"/>
 
